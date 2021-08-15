@@ -21,9 +21,9 @@ I was born and raised in New York State, but I've had the good fortune to be abl
 - 📫 You can reach me at vinceaggrippino@gmail.com
 
 ## Connect With Me
-<a href="https://codepen.io/VAggrippino" target="_blank"><img alt="CodePen" src="https://vaggrippino.github.io/VAggrippino/Images/codepen.svg" style="width: 24px; height: 24px;"/></a>
-<a href="https://twitter.com/VAggrippino" target="_blank"><img alt="Twitter" src="https://vaggrippino.github.io/VAggrippino/Images/twitter.svg" style="width: 24px; height: 24px;"/></a>
-<a href="https://www.facebook.com/vaggrippino" target="_blank"><img alt="Facebook" src="https://vaggrippino.github.io/VAggrippino/Images/facebook.svg" style="width: 24px; height: 24px;"/></a>
+<a href="https://codepen.io/VAggrippino" target="_blank" style="display: inline-block; width: 24px; height: 24px;"><img alt="CodePen" src="https://vaggrippino.github.io/VAggrippino/Images/codepen.svg"/></a>
+<a href="https://twitter.com/VAggrippino" target="_blank" style="display: inline-block; width: 24px; height: 24px;"><img alt="Twitter" src="https://vaggrippino.github.io/VAggrippino/Images/twitter.svg"/></a>
+<a href="https://www.facebook.com/vaggrippino" target="_blank" style="display: inline-block; width: 24px; height: 24px;"><img alt="Facebook" src="https://vaggrippino.github.io/VAggrippino/Images/facebook.svg"/></a>
 
 
 <!--
