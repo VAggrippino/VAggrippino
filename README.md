@@ -17,9 +17,9 @@ Most of all, I love my wife and daughter... the source of all my inspiration.
 
 I was born and raised in New York State, but I've had the good fortune to be able to visit and live in many other places. On the journey, I've picked up little bits of several different languages and I can speak Malay fluently.
 
-- 🔭 I'm currently working on assembling building a portfolio from my past projects and a few new ideas.
+- 🔭 I'm currently working on building a portfolio from my past projects and a few new ideas.
 - 🌱 I’m currently learning to use MongoDB with NodeJS.
 - 💬 Ask me about interesting JavaScript or CSS challenges.
 - 📫 You can reach me at vinceaggrippino@gmail.com
 
-I'm working on assembling a portfolio from past projects and a few interesting new ideas, but it's not ready yet. In the mean time, you can view some of my recent work at [CodePen](https://codepen.io/VAggrippino).
+My portfolio isn't quite ready yet. In the mean time, you can view some of my recent work at [CodePen](https://codepen.io/VAggrippino).
