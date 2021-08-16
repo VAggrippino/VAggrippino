@@ -1,5 +1,4 @@
-# Hey There! 👋 I'm Vince
-
+![GitHub Profile Header](https://vaggrippino.github.io/VAggrippino/Images/GitHubProfileHeader.jpg)
 I'm a Full Stack Web Developer with a lifelong love of IT.
 
 A lot of my past experience was based on a <abbr title="Linux, Apache, MySQL, PHP">LAMP</abbr> stack, but I switched to a JavaScript stack with <abbr title="MongoDB, Express, React, NodeJS">MERN</abbr> a few years ago. I primarily do frontend work, but I still do some backend.
