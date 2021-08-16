@@ -21,3 +21,12 @@ I was born and raised in New York State, but I've had the good fortune to be abl
 - 📫 You can reach me at vinceaggrippino@gmail.com
 
 My portfolio isn't quite ready yet. In the mean time, you can view some of my recent work at [CodePen](https://codepen.io/VAggrippino).
+
+## My Tools
+![HTML](https://vaggrippino.github.io/VAggrippino/Images/HTML5.png)
+![CSS](https://vaggrippino.github.io/VAggrippino/Images/CSS3.png)
+![Sass](https://vaggrippino.github.io/VAggrippino/Images/Sass.png)
+![JavaScript](https://vaggrippino.github.io/VAggrippino/Images/JavaScript.png)
+![React](https://vaggrippino.github.io/VAggrippino/Images/React.png)
+![VS Code](https://vaggrippino.github.io/VAggrippino/Images/VSCode.png)
+![Linux](https://vaggrippino.github.io/VAggrippino/Images/Linux.png)
